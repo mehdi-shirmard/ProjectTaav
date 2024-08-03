@@ -1,0 +1,122 @@
+{
+  "format": 1,
+  "restore": {
+    "G:\\GameNetTaav\\GameNetTaav\\GuessWordGame\\GameNet.GuessWord.csproj": {}
+  },
+  "projects": {
+    "G:\\GameNetTaav\\GameNetTaav\\GameNetTaav\\GameNet.Infora.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\GameNetTaav\\GameNetTaav\\GameNetTaav\\GameNet.Infora.csproj",
+        "projectName": "GameNet.Infora",
+        "projectPath": "G:\\GameNetTaav\\GameNetTaav\\GameNetTaav\\GameNet.Infora.csproj",
+        "packagesPath": "C:\\Users\\mehdi\\.nuget\\packages\\",
+        "outputPath": "G:\\GameNetTaav\\GameNetTaav\\GameNetTaav\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mehdi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "G:\\GameNetTaav\\GameNetTaav\\GuessWordGame\\GameNet.GuessWord.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\GameNetTaav\\GameNetTaav\\GuessWordGame\\GameNet.GuessWord.csproj",
+        "projectName": "GameNet.GuessWord",
+        "projectPath": "G:\\GameNetTaav\\GameNetTaav\\GuessWordGame\\GameNet.GuessWord.csproj",
+        "packagesPath": "C:\\Users\\mehdi\\.nuget\\packages\\",
+        "outputPath": "G:\\GameNetTaav\\GameNetTaav\\GuessWordGame\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mehdi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "G:\\GameNetTaav\\GameNetTaav\\GameNetTaav\\GameNet.Infora.csproj": {
+                "projectPath": "G:\\GameNetTaav\\GameNetTaav\\GameNetTaav\\GameNet.Infora.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

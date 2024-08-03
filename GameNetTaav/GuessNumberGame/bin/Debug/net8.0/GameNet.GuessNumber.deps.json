@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "GameNet.GuessNumber/1.0.0": {
+        "dependencies": {
+          "GameNet.Infora": "1.0.0"
+        },
+        "runtime": {
+          "GameNet.GuessNumber.dll": {}
+        }
+      },
+      "GameNet.Infora/1.0.0": {
+        "runtime": {
+          "GameNet.Infora.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GameNet.GuessNumber/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GameNet.Infora/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

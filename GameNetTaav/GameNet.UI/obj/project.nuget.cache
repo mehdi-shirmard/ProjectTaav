@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "TFIOIwlS7669iiALnXQxKM8M1zSecQ7FsLYAT8LQlee92xSyguUs9fC7T1CAW2rrpAWLKILK/Jf9ugsuieBwWQ==",
+  "success": true,
+  "projectFilePath": "G:\\GameNetTaav\\GameNetTaav\\GameNet.UI\\GameNet.UI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mehdi\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.1\\microsoft.dotnet.ilcompiler.8.0.1.nupkg.sha512",
+    "C:\\Users\\mehdi\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.1\\microsoft.net.illink.tasks.8.0.1.nupkg.sha512",
+    "C:\\Users\\mehdi\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.1\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

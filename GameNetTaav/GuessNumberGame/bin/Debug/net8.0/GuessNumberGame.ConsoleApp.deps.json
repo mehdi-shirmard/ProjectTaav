@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "GuessNumberGame.ConsoleApp/1.0.0": {
+        "dependencies": {
+          "GameNet": "1.0.0"
+        },
+        "runtime": {
+          "GuessNumberGame.ConsoleApp.dll": {}
+        }
+      },
+      "GameNet/1.0.0": {
+        "dependencies": {
+          "Games": "1.0.0"
+        },
+        "runtime": {
+          "GameNet.dll": {}
+        }
+      },
+      "Games/1.0.0": {
+        "runtime": {
+          "Games.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GuessNumberGame.ConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GameNet/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Games/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
